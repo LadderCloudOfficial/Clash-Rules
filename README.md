@@ -5,6 +5,7 @@
 欢迎使用 **梯子云 (LadderCloud)** 官方推荐的分流规则库！
 
 本项目提供针对 **Clash / Sing-Box / Shadowrocket / Quantumult X** 等主流客户端的智能分流规则建议，帮助您实现国内流量直连、海外流量加速、AI/流媒体精准解锁。
+> 🔄 **规则维护状态**：`2026-08-11` 已更新，完美支持 ChatGPT-4o / Claude 3.5 Sonnet / Cursor 及各大 4K 流媒体精准分流。
 
 ---
 
